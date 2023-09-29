@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "lesson6.css",
+			"path": "../lesson6.css"
+		},
+		{
+			"name": "homework.lesson16",
+			"path": "../homework.lesson16"
+		},
+		{
+			"name": "lesson17",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson6.css"
+	}
+}
